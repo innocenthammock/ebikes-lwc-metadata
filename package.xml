@@ -104,5 +104,5 @@
         <members>bike_assets</members>
         <name>StaticResource</name>
     </types>
-    <version>45.0</version>
+    <version>46.0</version>
 </Package>
